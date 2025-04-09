@@ -92,3 +92,11 @@ body {
     font-weight: 800;
 }
 
+.heading:hover {
+    cursor:pointer;
+}
+
+.heading:active {
+    color:#F4D04E;
+}
+
